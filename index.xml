@@ -234,6 +234,8 @@ $ git log --pretty=oneline --abbrev-commit --decorate HEAD..upstream/master
 &lt;p&gt;Copyright 2016 &lt;a href=&#34;https://georgecushen.com&#34; target=&#34;_blank&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Released under the &lt;a href=&#34;https://github.com/gcushen/hugo-academic/blob/master/LICENSE.md&#34; target=&#34;_blank&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
+
+&lt;h2 id=&#34;harikrishnan&#34;&gt;Harikrishnan&lt;/h2&gt;
 </description>
     </item>
     
