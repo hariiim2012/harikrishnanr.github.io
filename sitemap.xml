@@ -4,6 +4,14 @@
     
     
     <url>
+      <loc>http://mekano.in/post/API%27s_and_beyond/</loc>
+      <lastmod>2017-03-19T11:42:17+05:30</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
       <loc>http://mekano.in/tags/academic/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
@@ -60,48 +68,8 @@
     
     
     <url>
-      <loc>http://mekano.in/post/getting-started/</loc>
-      <lastmod>2016-04-20T12:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-      <loc>http://mekano.in/post/widgets/</loc>
-      <lastmod>2016-04-20T11:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-      <loc>http://mekano.in/post/managing-content/</loc>
-      <lastmod>2016-04-20T11:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-      <loc>http://mekano.in/post/writing-markdown-latex/</loc>
-      <lastmod>2016-04-20T10:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
       <loc>http://mekano.in/publication/person-re-identification/</loc>
       <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-      <loc>http://mekano.in/post/migrate-from-jekyll/</loc>
-      <lastmod>2014-03-10T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -154,24 +122,6 @@
     <url>
       <loc>http://mekano.in/</loc>
       <lastmod>2016-04-20T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-      <loc>http://mekano.in/tags/hugo/</loc>
-      <lastmod>2016-04-20T12:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-      <loc>http://mekano.in/tags/jekyll/</loc>
-      <lastmod>2014-03-10T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
